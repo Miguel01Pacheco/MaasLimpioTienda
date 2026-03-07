@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Build de producción
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables de entorno (no hay en este proyecto, pero buena práctica)
+.env
+.env.local
+.env.production
+
+# Editor
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

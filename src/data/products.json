@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Detergente 30 Maas",
+        "price": 1800,
+        "category": "lavado",
+        "image": "/imagenes/deter-30-maas.png",
+        "description": "Detergente concentrado de alta espuma. Ideal para ropa blanca y de color. Fórmula 30 activo.",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "name": "Suavizante Lavanda Maas",
+        "price": 1600,
+        "category": "lavado",
+        "image": "/imagenes/lavanda-maas.png",
+        "description": "Suavizante con fragancia a lavanda. Deja la ropa suave, perfumada y sin estática.",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "name": "Jabón Verde Maas",
+        "price": 950,
+        "category": "lavado",
+        "image": "/imagenes/jabon-verde-maas.jpeg",
+        "description": "Jabón multiusos en barra. Ideal para lavado a mano y manchas difíciles.",
+        "featured": false
+    },
+    {
+        "id": 4,
+        "name": "Jabón Azul Maas",
+        "price": 950,
+        "category": "lavado",
+        "image": "/imagenes/jabon-azul-maas.png",
+        "description": "Jabón azul premium. Formulado para ropa delicada y lavado a mano.",
+        "featured": false
+    },
+    {
+        "id": 5,
+        "name": "Suavizante Marina Maas",
+        "price": 1700,
+        "category": "lavado",
+        "image": "/imagenes/marina-maas.png",
+        "description": "Suavizante con fragancia marina fresca. Larga duración y suavidad superior.",
+        "featured": false
+    },
+    {
+        "id": 6,
+        "name": "Suavizante Cherry Maas",
+        "price": 1650,
+        "category": "lavado",
+        "image": "/imagenes/cherry-maas.png",
+        "description": "Suavizante con aroma a cereza. Deja la ropa con fragancia intensa y duradera.",
+        "featured": false
+    },
+    {
+        "id": 7,
+        "name": "Lavandina Maas",
+        "price": 1100,
+        "category": "limpieza-del-hogar",
+        "image": "/imagenes/lavandina-maas.png",
+        "description": "Lavandina concentrada para limpieza y desinfección del hogar. Máximo poder blanqueador.",
+        "featured": true
+    },
+    {
+        "id": 8,
+        "name": "Desengrasante Maas",
+        "price": 1500,
+        "category": "limpieza-del-hogar",
+        "image": "/imagenes/desengrasante-maas.png",
+        "description": "Desengrasante potente para cocinas, hornos y superficies grasas. Acción rápida.",
+        "featured": true
+    },
+    {
+        "id": 9,
+        "name": "Limpia Vidrios Maas",
+        "price": 1250,
+        "category": "limpieza-del-hogar",
+        "image": "/imagenes/limpia-vidrios-maas.png",
+        "description": "Limpia vidrios con efecto antivaho. Deja superficies transparentes y sin rayas.",
+        "featured": false
+    },
+    {
+        "id": 10,
+        "name": "Pino Maas",
+        "price": 1300,
+        "category": "limpieza-del-hogar",
+        "image": "/imagenes/pino-maas.png",
+        "description": "Limpiador a base de pino. Desinfecta y perfuma pisos y superficies con aroma fresco.",
+        "featured": false
+    },
+    {
+        "id": 11,
+        "name": "Lavavajillas Maas",
+        "price": 1200,
+        "category": "limpieza-del-hogar",
+        "image": "/imagenes/lavavajillas-maas.png",
+        "description": "Lavavajillas líquido espumante. Elimina grasa y restos de comida con facilidad.",
+        "featured": false
+    },
+    {
+        "id": 12,
+        "name": "Limón Maas",
+        "price": 1350,
+        "category": "limpieza-del-hogar",
+        "image": "/imagenes/limon-maas.png",
+        "description": "Limpiador multiusos con fragancia a limón. Desengrasante y desinfectante natural.",
+        "featured": false
+    },
+    {
+        "id": 13,
+        "name": "Pino Menta Maas",
+        "price": 1350,
+        "category": "limpieza-del-hogar",
+        "image": "/imagenes/pino-menta-maas.jpeg",
+        "description": "Limpiador pino-menta refrescante. Ideal para baños, cocinas y pisos en general.",
+        "featured": false
+    },
+    {
+        "id": 14,
+        "name": "Cloro Dclod",
+        "price": 2500,
+        "category": "piscinas",
+        "image": "/imagenes/cloro-dclod.png",
+        "description": "Cloro granulado para piletas. Mantiene el agua cristalina y libre de bacterias.",
+        "featured": true
+    },
+    {
+        "id": 15,
+        "name": "Clarificador Dclod",
+        "price": 2200,
+        "category": "piscinas",
+        "image": "/imagenes/clarificador-dclod.png",
+        "description": "Clarificador de agua para piscinas. Elimina turbiedad y partículas en suspensión.",
+        "featured": false
+    },
+    {
+        "id": 16,
+        "name": "Pastillas Triple Acción Dclod",
+        "price": 3800,
+        "category": "piscinas",
+        "image": "/imagenes/pastillas-triple-accion-dclod.png",
+        "description": "Pastillas de cloro de triple acción: desinfección, algicida y clarificador en una sola.",
+        "featured": true
+    },
+    {
+        "id": 17,
+        "name": "Perfumina Bidón Maas",
+        "price": 4500,
+        "category": "linea-a-granel",
+        "image": "/imagenes/perfumina-bidon-maas.png",
+        "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
+        "featured": true
+    },
+    {
+        "id": 18,
+        "name": "Perfumina Bidón Dclod",
+        "price": 4800,
+        "category": "linea-a-granel",
+        "image": "/imagenes/perfumina-bidon-dclod.png",
+        "description": "Perfumina premium Dclod en bidón de 5 litros. Fragancia intensa y duradera a granel.",
+        "featured": false
+    },
+    {
+        "id": 19,
+        "name": "Suavizante Arpege Maas",
+        "price": 4200,
+        "category": "linea-a-granel",
+        "image": "/imagenes/arpege-maas.png",
+        "description": "Suavizante Arpege a granel. Fragancia floral elegante para uso comercial o doméstico.",
+        "featured": false
+    },
+    {
+        "id": 20,
+        "name": "Detergente 30 Dclod",
+        "price": 2100,
+        "category": "linea-dclod",
+        "image": "/imagenes/deter-30-dclod.png",
+        "description": "Detergente 30 activo línea Dclod. Formulación premium para mayor rendimiento.",
+        "featured": true
+    },
+    {
+        "id": 21,
+        "name": "Detergente Rojo Dclod",
+        "price": 2200,
+        "category": "linea-dclod",
+        "image": "/imagenes/deter-rojo-dclod.png",
+        "description": "Detergente rojo Dclod de alta concentración. Ideal para ropa oscura y colores intensos.",
+        "featured": false
+    },
+    {
+        "id": 22,
+        "name": "Jabón Azul Dclod",
+        "price": 1100,
+        "category": "linea-dclod",
+        "image": "/imagenes/jabon-azul-dclod.png",
+        "description": "Jabón azul línea Dclod. Fórmula dermatológicamente testeada para pieles sensibles.",
+        "featured": false
+    },
+    {
+        "id": 23,
+        "name": "Suavizante Cherry Dclod",
+        "price": 1900,
+        "category": "linea-dclod",
+        "image": "/imagenes/cherry-dclod.png",
+        "description": "Suavizante Cherry línea Dclod. Fragancia frutal intensa de larga duración.",
+        "featured": false
+    },
+    {
+        "id": 24,
+        "name": "Lavavajillas Dclod",
+        "price": 1400,
+        "category": "linea-dclod",
+        "image": "/imagenes/lavavajillas-dclod.png",
+        "description": "Lavavajillas Dclod con fórmula desengrasante avanzada y cuida manos.",
+        "featured": false
+    },
+    {
+        "id": 25,
+        "name": "Colonia Dclod",
+        "price": 2300,
+        "category": "linea-dclod",
+        "image": "/imagenes/colonia-dclod.png",
+        "description": "Colonia Dclod de fragancia exclusiva. Perfume suave y sofisticado para toda la familia.",
+        "featured": true
+    },
+    {
+        "id": 26,
+        "name": "Arpege Dclod",
+        "price": 2500,
+        "category": "linea-dclod",
+        "image": "/imagenes/arpege-dclod.png",
+        "description": "Suavizante Arpege Dclod. Fragancia floral premium de alta fijación.",
+        "featured": false
+    },
+    {
+        "id": 27,
+        "name": "Colonia Maas",
+        "price": 1900,
+        "category": "variedad",
+        "image": "/imagenes/colonia-maas.png",
+        "description": "Colonia Maas para el hogar. Aroma fresco y duradero, ideal para toda la familia.",
+        "featured": false
+    },
+    {
+        "id": 28,
+        "name": "Jabón de Manos Dclod",
+        "price": 1100,
+        "category": "variedad",
+        "image": "/imagenes/jabon-manos-dclod.png",
+        "description": "Jabón líquido para manos con aloe vera. Higieniza y cuida la piel con cada lavado.",
+        "featured": false
+    },
+    {
+        "id": 29,
+        "name": "Jabón para Autos Dclod",
+        "price": 1600,
+        "category": "variedad",
+        "image": "/imagenes/jabon-para-autos-dclod.png",
+        "description": "Shampoo especial para autos. Brillo intenso sin dañar la pintura ni las gomas.",
+        "featured": true
+    },
+    {
+        "id": 30,
+        "name": "Citronella Maas",
+        "price": 1450,
+        "category": "variedad",
+        "image": "/imagenes/citronella-maas.png",
+        "description": "Repelente a base de citronella para el hogar. Mantiene alejados mosquitos e insectos.",
+        "featured": false
+    }
+]

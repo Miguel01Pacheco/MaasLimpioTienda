@@ -1,0 +1,22 @@
+// Entry point de la aplicación
+// Monta React en el DOM y envuelve App con CartProvider
+
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.jsx'
+import { CartProvider } from './context/CartContext.jsx'
+
+// Bootstrap CSS y Bootstrap Icons
+import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap-icons/font/bootstrap-icons.css'
+
+// Estilos personalizados (sobreescribe Bootstrap donde sea necesario)
+import './styles/main.css'
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+    <React.StrictMode>
+        <CartProvider>
+            <App />
+        </CartProvider>
+    </React.StrictMode>
+)
