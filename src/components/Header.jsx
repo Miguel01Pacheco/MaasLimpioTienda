@@ -55,6 +55,7 @@ export default function Header() {
                             <CategoryMenu onNavigate={closeMenu} />
 
                             {/* Promo */}
+                            {/*
                             <Link
                                 to="/promo"
                                 className="nav-promo-link"
@@ -63,7 +64,7 @@ export default function Header() {
                                 <i className="bi bi-stars me-1"></i>
                                 Club Mar Chiquita
                             </Link>
-
+                            */}
                             {/* Buscador */}
                             <div className="flex-lg-grow-1 d-flex justify-content-lg-center w-100">
                                 <SearchBar onSearch={closeMenu} />

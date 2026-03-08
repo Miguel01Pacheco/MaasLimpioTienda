@@ -60,6 +60,7 @@ export default function Home() {
         />
 
         {/* ── Banner Promo ── */}
+        {/*
         <div
           className="mt-5 p-4 d-flex flex-column flex-md-row align-items-center gap-3 justify-content-between"
           style={{
@@ -79,6 +80,8 @@ export default function Home() {
               Comprá en nuestra promo especial y contribuís al viaje de los chicos del club.
             </p>
           </div>
+          
+        
           <Link
             to="/promo"
             style={{
@@ -93,9 +96,12 @@ export default function Home() {
           >
             Ver promoción →
           </Link>
+          
         </div>
+        */}
 
       </div>
+
     </>
   )
 }
