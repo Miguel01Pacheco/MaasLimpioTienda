@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "name": "Detergente 30 Maas",
-        "price": 1800,
-        "category": "lavado",
+        "name": "Detergente Industrial Neutro 30% Maas",
+        "price": 19500,
+        "category": "linea-a-granel",
         "image": "/imagenes/deter-30-maas.png",
-        "description": "Detergente concentrado de alta espuma. Ideal para ropa blanca y de color. Fórmula 30 activo.",
-        "featured": true
+        "description": "Detergente concentrado de alto rendimiento con 30% de materia acttiva.",
+        "featured": false
     },
     {
         "id": 2,
-        "name": "Suavizante Lavanda Maas",
-        "price": 1600,
-        "category": "lavado",
+        "name": "Desodorante Limpiador Lavanda Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/lavanda-maas.png",
-        "description": "Suavizante con fragancia a lavanda. Deja la ropa suave, perfumada y sin estática.",
+        "description": "Desodorante Limpiador con fragancia a lavanda.Limpia, desinfecta y desodoriza.",
         "featured": true
     },
     {
         "id": 3,
         "name": "Jabón Verde Maas",
-        "price": 950,
-        "category": "lavado",
+        "price": 8000,
+        "category": "linea-a-granel",
         "image": "/imagenes/jabon-verde-maas.jpeg",
-        "description": "Jabón multiusos en barra. Ideal para lavado a mano y manchas difíciles.",
-        "featured": false
+        "description": "Jabon premium de baja espuma. Lava, cuida y perfuma la ropa.",
+        "featured": true
     },
     {
         "id": 4,
         "name": "Jabón Azul Maas",
-        "price": 950,
-        "category": "lavado",
+        "price": 4500,
+        "category": "linea-a-granel",
         "image": "/imagenes/jabon-azul-maas.png",
-        "description": "Jabón azul premium. Formulado para ropa delicada y lavado a mano.",
-        "featured": false
+        "description": "Jabón azul ideal para ropa de trabajo, uniformes escolares y lavado a mano.",
+        "featured": true
     },
     {
         "id": 5,
-        "name": "Suavizante Marina Maas",
-        "price": 1700,
-        "category": "lavado",
+        "name": "Desodorante Limpiador Marina Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/marina-maas.png",
-        "description": "Suavizante con fragancia marina fresca. Larga duración y suavidad superior.",
+        "description": "Desodorante Limpiador con fragancia marina.Limpia, desinfecta y desodoriza.",
         "featured": false
     },
     {
         "id": 6,
-        "name": "Suavizante Cherry Maas",
-        "price": 1650,
-        "category": "lavado",
+        "name": "Desodorante Limpiador Cherry Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/cherry-maas.png",
-        "description": "Suavizante con aroma a cereza. Deja la ropa con fragancia intensa y duradera.",
+        "description": "Desodorante Limpiador con fragancia cherry.Limpia, desinfecta y desodoriza.",
         "featured": false
     },
     {
         "id": 7,
         "name": "Lavandina Maas",
-        "price": 1100,
+        "price": 3000,
         "category": "limpieza-del-hogar",
         "image": "/imagenes/lavandina-maas.png",
         "description": "Lavandina concentrada para limpieza y desinfección del hogar. Máximo poder blanqueador.",
@@ -65,8 +65,8 @@
     {
         "id": 8,
         "name": "Desengrasante Maas",
-        "price": 1500,
-        "category": "limpieza-del-hogar",
+        "price": 6000,
+        "category": "linea-a-granel",
         "image": "/imagenes/desengrasante-maas.png",
         "description": "Desengrasante potente para cocinas, hornos y superficies grasas. Acción rápida.",
         "featured": true
@@ -74,44 +74,44 @@
     {
         "id": 9,
         "name": "Limpia Vidrios Maas",
-        "price": 1250,
-        "category": "limpieza-del-hogar",
+        "price": 5000,
+        "category": "linea-a-granel",
         "image": "/imagenes/limpia-vidrios-maas.png",
-        "description": "Limpia vidrios con efecto antivaho. Deja superficies transparentes y sin rayas.",
+        "description": "Limpia vidrios y multiusos. Deja superficies transparentes y sin rayas.",
         "featured": false
     },
     {
         "id": 10,
-        "name": "Pino Maas",
-        "price": 1300,
-        "category": "limpieza-del-hogar",
+        "name": "Desodorante Limpiador Pino Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/pino-maas.png",
         "description": "Limpiador a base de pino. Desinfecta y perfuma pisos y superficies con aroma fresco.",
         "featured": false
     },
     {
         "id": 11,
-        "name": "Lavavajillas Maas",
-        "price": 1200,
-        "category": "limpieza-del-hogar",
+        "name": "Detergente Lavavajillas Maas",
+        "price": 6000,
+        "category": "linea-a-granel",
         "image": "/imagenes/lavavajillas-maas.png",
-        "description": "Lavavajillas líquido espumante. Elimina grasa y restos de comida con facilidad.",
+        "description": "Detergente líquido ideal para el lavado de vajillas. Elimina grasa y restos de comida con facilidad.",
         "featured": false
     },
     {
         "id": 12,
-        "name": "Limón Maas",
-        "price": 1350,
-        "category": "limpieza-del-hogar",
+        "name": "Desodorante Limpiador Limon Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/limon-maas.png",
         "description": "Limpiador multiusos con fragancia a limón. Desengrasante y desinfectante natural.",
         "featured": false
     },
     {
         "id": 13,
-        "name": "Pino Menta Maas",
-        "price": 1350,
-        "category": "limpieza-del-hogar",
+        "name": "Desodorante Limpiador Pino Menta Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/pino-menta-maas.jpeg",
         "description": "Limpiador pino-menta refrescante. Ideal para baños, cocinas y pisos en general.",
         "featured": false
@@ -119,16 +119,16 @@
     {
         "id": 14,
         "name": "Cloro Dclod",
-        "price": 2500,
-        "category": "piscinas",
+        "price": 6900,
+        "category": "linea-dclod",
         "image": "/imagenes/cloro-dclod.png",
-        "description": "Cloro granulado para piletas. Mantiene el agua cristalina y libre de bacterias.",
+        "description": "Hipoclorio de sodio con una concentracion de 100gCl/l.",
         "featured": true
     },
     {
         "id": 15,
         "name": "Clarificador Dclod",
-        "price": 2200,
+        "price": 15900,
         "category": "piscinas",
         "image": "/imagenes/clarificador-dclod.png",
         "description": "Clarificador de agua para piscinas. Elimina turbiedad y partículas en suspensión.",
@@ -137,7 +137,7 @@
     {
         "id": 16,
         "name": "Pastillas Triple Acción Dclod",
-        "price": 3800,
+        "price": 8500,
         "category": "piscinas",
         "image": "/imagenes/pastillas-triple-accion-dclod.png",
         "description": "Pastillas de cloro de triple acción: desinfección, algicida y clarificador en una sola.",
@@ -146,7 +146,7 @@
     {
         "id": 17,
         "name": "Perfumina Bidón Maas",
-        "price": 4500,
+        "price": 25000,
         "category": "linea-a-granel",
         "image": "/imagenes/perfumina-bidon-maas.png",
         "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
@@ -155,7 +155,7 @@
     {
         "id": 18,
         "name": "Perfumina Bidón Dclod",
-        "price": 4800,
+        "price": 25000,
         "category": "linea-a-granel",
         "image": "/imagenes/perfumina-bidon-dclod.png",
         "description": "Perfumina premium Dclod en bidón de 5 litros. Fragancia intensa y duradera a granel.",
@@ -163,17 +163,17 @@
     },
     {
         "id": 19,
-        "name": "Suavizante Arpege Maas",
-        "price": 4200,
+        "name": "Desodorante Limpiador Arpege Maas",
+        "price": 3000,
         "category": "linea-a-granel",
         "image": "/imagenes/arpege-maas.png",
-        "description": "Suavizante Arpege a granel. Fragancia floral elegante para uso comercial o doméstico.",
+        "description": "Desodorante Limpiador con fragancia a floral.Limpia, desinfecta y desodoriza.",
         "featured": false
     },
     {
         "id": 20,
-        "name": "Detergente 30 Dclod",
-        "price": 2100,
+        "name": "Detergente Industrial Neutro 30% Dclod",
+        "price": 19600,
         "category": "linea-dclod",
         "image": "/imagenes/deter-30-dclod.png",
         "description": "Detergente 30 activo línea Dclod. Formulación premium para mayor rendimiento.",
@@ -182,7 +182,7 @@
     {
         "id": 21,
         "name": "Detergente Rojo Dclod",
-        "price": 2200,
+        "price": 8300,
         "category": "linea-dclod",
         "image": "/imagenes/deter-rojo-dclod.png",
         "description": "Detergente rojo Dclod de alta concentración. Ideal para ropa oscura y colores intensos.",
@@ -191,28 +191,28 @@
     {
         "id": 22,
         "name": "Jabón Azul Dclod",
-        "price": 1100,
+        "price": 5000,
         "category": "linea-dclod",
         "image": "/imagenes/jabon-azul-dclod.png",
-        "description": "Jabón azul línea Dclod. Fórmula dermatológicamente testeada para pieles sensibles.",
+        "description": "Jabón azul línea Dclod. Fórmula ideal para lavado diario.",
         "featured": false
     },
     {
         "id": 23,
-        "name": "Suavizante Cherry Dclod",
-        "price": 1900,
+        "name": "Desodorante Limpiador Cherry Dclod",
+        "price": 3500,
         "category": "linea-dclod",
         "image": "/imagenes/cherry-dclod.png",
-        "description": "Suavizante Cherry línea Dclod. Fragancia frutal intensa de larga duración.",
+        "description": "Desodorante Limpiador con fragancia cherry.Limpia, desinfecta y desodoriza.",
         "featured": false
     },
     {
         "id": 24,
-        "name": "Lavavajillas Dclod",
-        "price": 1400,
+        "name": "Detergente Lavavajillas Dclod",
+        "price": 6400,
         "category": "linea-dclod",
         "image": "/imagenes/lavavajillas-dclod.png",
-        "description": "Lavavajillas Dclod con fórmula desengrasante avanzada y cuida manos.",
+        "description": "Lavavajillas Dclod con fórmula desengrasante avanzada.",
         "featured": false
     },
     {
