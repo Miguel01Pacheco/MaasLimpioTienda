@@ -361,7 +361,24 @@ body {
   box-shadow: var(--shadow-hover);
 }
 
-/* ─── Product Cards ──────────────────────────────────────────── */
+
+.btn-add-cart {
+  background: var(--ml-blue);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 8px 16px;
+  font-size: 0.875rem;
+  font-weight: 600;
+  width: 100%;
+  cursor: pointer;
+  transition: background var(--transition), transform var(--transition);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}/* ─── Product Cards ──────────────────────────────────────────── */
+
 .product-card {
   background: var(--ml-white);
   border-radius: var(--radius-md);
@@ -380,12 +397,12 @@ body {
   box-shadow: var(--shadow-hover);
 }
 
+/* Imagen */
+
 .product-card-img-wrapper {
   width: 100%;
   padding-top: 75%;
-  /* aspect ratio 4:3 */
   position: relative;
-  background: var(--ml-gray-50);
   overflow: hidden;
 }
 
@@ -395,13 +412,45 @@ body {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  padding: 12px;
+  padding: 14px;
   transition: transform 0.3s ease;
 }
 
 .product-card:hover .product-card-img-wrapper img {
   transform: scale(1.06);
 }
+
+/* Fondo por categoría */
+
+.bg-cat-lavado {
+  background: linear-gradient(180deg, #E3F2FD 0%, #F7FBFF 100%);
+}
+
+.bg-cat-hogar {
+  background: linear-gradient(180deg, #E8F5E9 0%, #F7FFF8 100%);
+}
+
+.bg-cat-piscinas {
+  background: linear-gradient(180deg, #E0F7FA 0%, #F6FEFF 100%);
+}
+
+.bg-cat-granel {
+  background: linear-gradient(180deg, #FFF8E1 0%, #FFFDF4 100%);
+}
+
+.bg-cat-dclod {
+  background: linear-gradient(180deg, #F3E5F5 0%, #FBF6FD 100%);
+}
+
+.bg-cat-variedad {
+  background: linear-gradient(180deg, #F5F5F5 0%, #FFFFFF 100%);
+}
+
+.bg-cat-default {
+  background: var(--ml-gray-50);
+}
+
+/* Body */
 
 .product-card-body {
   padding: 14px 16px;
@@ -438,23 +487,6 @@ body {
   font-weight: 800;
   color: var(--ml-blue);
   margin-bottom: 12px;
-}
-
-.btn-add-cart {
-  background: var(--ml-blue);
-  color: #fff;
-  border: none;
-  border-radius: var(--radius-pill);
-  padding: 8px 16px;
-  font-size: 0.875rem;
-  font-weight: 600;
-  width: 100%;
-  cursor: pointer;
-  transition: background var(--transition), transform var(--transition);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 6px;
 }
 
 .btn-add-cart:hover {
