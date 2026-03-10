@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Detergente Industrial Neutro 30% Maas",
         "price": 19500,
-        "category": "granel",
+        "category": "linea-a-granel",
         "image": "/imagenes/deter-30-maas.png",
         "description": "Detergente concentrado de alto rendimiento con 30% de materia acttiva.",
         "featured": false
