@@ -8,7 +8,8 @@ import { useNavigate } from 'react-router-dom'
  */
 const CATEGORIES = [
     { slug: 'lavado', label: 'Lavado', icon: 'bi-water' },
-    { slug: 'limpieza-del-hogar', label: 'Limpieza del Hogar', icon: 'bi-house-heart' },
+    /** { slug: 'limpieza-del-hogar', label: 'Limpieza del Hogar', icon: 'bi-house-heart' }, */
+   
     { slug: 'piscinas', label: 'Piscinas', icon: 'bi-droplet-half' },
     { slug: 'linea-a-granel', label: 'Línea a Granel', icon: 'bi-bag' },
     { slug: 'linea-dclod', label: 'Línea Dclod', icon: 'bi-award' },
