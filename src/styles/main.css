@@ -9,11 +9,18 @@
 /* ─── Variables CSS ──────────────────────────────────────────── */
 :root {
   /* Paleta de color principal */
-  --ml-blue: #1565C0;
+ /* --ml-blue: #1565C0;
   --ml-blue-mid: #1976D2;
   --ml-blue-light: #42A5F5;
   --ml-blue-bg: #E3F2FD;
-  --ml-blue-pale: #F0F7FF;
+  --ml-blue-pale: #F0F7FF;*/
+   
+   /* Paleta de color principal */
+--ml-blue: #2A6FD6;
+--ml-blue-mid: #3E82E4;
+--ml-blue-light: #6AA6F8;
+--ml-blue-bg: #E8F2FF;
+--ml-blue-pale: #F5F9FF;
 
   /* Promo / Acento */
   --ml-green: #2E7D32;
