@@ -9,7 +9,7 @@ import { CartProvider } from './context/CartContext.jsx'
 // Bootstrap CSS y Bootstrap Icons
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap-icons/font/bootstrap-icons.css'
-
+import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 // Estilos personalizados (sobreescribe Bootstrap donde sea necesario)
 import './styles/main.css'
 
