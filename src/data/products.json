@@ -26,11 +26,30 @@
         "description": "Jabon premium de baja espuma. Lava, cuida y perfuma la ropa.",
         "featured": true
     },
+     {
+        "id": 45,
+        "name": "Jabón Verde Maas",
+        "price": 8000,
+        "category": "lavado",
+        "image": "/imagenes/jabon-verde-maas.jpeg",
+        "description": "Jabon premium de baja espuma. Lava, cuida y perfuma la ropa.",
+        "featured": true
+    },
     {
         "id": 4,
         "name": "Jabón Azul Maas",
         "price": 4500,
         "category": "linea-a-granel",
+        "image": "/imagenes/jabon-azul-maas.png",
+        "description": "Jabón azul ideal para ropa de trabajo, uniformes escolares y lavado a mano.",
+        "featured": true,
+        "lavado":true
+    },
+    {
+        "id": 46,
+        "name": "Jabón Azul Maas",
+        "price": 4500,
+        "category": "lavado",
         "image": "/imagenes/jabon-azul-maas.png",
         "description": "Jabón azul ideal para ropa de trabajo, uniformes escolares y lavado a mano.",
         "featured": true
@@ -125,6 +144,15 @@
         "description": "Hipoclorio de sodio con una concentracion de 100gCl/l.",
         "featured": true
     },
+     {
+        "id": 47,
+        "name": "Cloro Dclod",
+        "price": 6900,
+        "category": "piscinas",
+        "image": "/imagenes/cloro-dclod.png",
+        "description": "Hipoclorio de sodio con una concentracion de 100gCl/l.",
+        "featured": true
+    },
     {
         "id": 15,
         "name": "Clarificador Dclod",
@@ -150,16 +178,36 @@
         "category": "linea-a-granel",
         "image": "/imagenes/perfumina-bidon-maas.png",
         "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
+        "featured": true,
+        "lavado":true
+    },
+     {
+        "id": 48,
+        "name": "Perfumina Bidón Maas",
+        "price": 25000,
+        "category": "lavado",
+        "image": "/imagenes/perfumina-bidon-maas.png",
+        "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
+        "featured": true
+    },
+     {
+        "id": 49,
+        "name": "Perfumina Bidón Dclod",
+        "price": 25000,
+        "category": "lavado",
+        "image": "/imagenes/perfumina-bidon-maas.png",
+        "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
         "featured": true
     },
     {
         "id": 18,
         "name": "Perfumina Bidón Dclod",
         "price": 25000,
-        "category": "linea-a-granel",
+        "category": "linea-dclod",
         "image": "/imagenes/perfumina-bidon-dclod.png",
         "description": "Perfumina premium Dclod en bidón de 5 litros. Fragancia intensa y duradera a granel.",
-        "featured": false
+        "featured": false,
+        "lavado":true
     },
     {
         "id": 19,
@@ -197,6 +245,15 @@
         "description": "Jabón azul línea Dclod. Fórmula ideal para lavado diario.",
         "featured": false
     },
+     {
+        "id": 50,
+        "name": "Jabón Azul Dclod",
+        "price": 5000,
+        "category": "linea-dclod",
+        "image": "/imagenes/jabon-azul-dclod.png",
+        "description": "Jabón azul línea Dclod. Fórmula ideal para lavado diario.",
+        "featured": false
+    },
     {
         "id": 23,
         "name": "Desodorante Limpiador Cherry Dclod",
@@ -217,36 +274,36 @@
     },
     {
         "id": 25,
-        "name": "Colonia Dclod",
-        "price": 2300,
+        "name": "Desodorante Limpiador Colonia Dclod",
+        "price": 3500,
         "category": "linea-dclod",
         "image": "/imagenes/colonia-dclod.png",
-        "description": "Colonia Dclod de fragancia exclusiva. Perfume suave y sofisticado para toda la familia.",
+        "description": "Limpiador Colonia Dclod de fragancia exclusiva. Perfume suave y sofisticado para toda la familia.",
         "featured": true
     },
     {
         "id": 26,
-        "name": "Arpege Dclod",
-        "price": 2500,
+        "name": "Desodorante Limpiador Arpege Dclod",
+        "price": 3500,
         "category": "linea-dclod",
         "image": "/imagenes/arpege-dclod.png",
-        "description": "Suavizante Arpege Dclod. Fragancia floral premium de alta fijación.",
+        "description": "Desodorante Limpiador con fragancia floral.Limpia, desinfecta y desodoriza.",
         "featured": false
     },
     {
         "id": 27,
-        "name": "Colonia Maas",
-        "price": 1900,
-        "category": "variedad",
+        "name": "Desodorante Limpiador Colonia Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/colonia-maas.png",
-        "description": "Colonia Maas para el hogar. Aroma fresco y duradero, ideal para toda la familia.",
+        "description": "Limpiador Colonia Maas para el hogar. Aroma fresco y duradero, ideal para toda la familia.",
         "featured": false
     },
     {
         "id": 28,
         "name": "Jabón de Manos Dclod",
-        "price": 1100,
-        "category": "variedad",
+        "price": 7800,
+        "category": "linea-dclod",
         "image": "/imagenes/jabon-manos-dclod.png",
         "description": "Jabón líquido para manos con aloe vera. Higieniza y cuida la piel con cada lavado.",
         "featured": false
@@ -254,19 +311,175 @@
     {
         "id": 29,
         "name": "Jabón para Autos Dclod",
-        "price": 1600,
-        "category": "variedad",
+        "price": 11000,
+        "category": "linea-dclod",
         "image": "/imagenes/jabon-para-autos-dclod.png",
         "description": "Shampoo especial para autos. Brillo intenso sin dañar la pintura ni las gomas.",
         "featured": true
     },
     {
         "id": 30,
-        "name": "Citronella Maas",
-        "price": 1450,
-        "category": "variedad",
+        "name": "Desodorante Limpiador Citronella Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
         "image": "/imagenes/citronella-maas.png",
-        "description": "Repelente a base de citronella para el hogar. Mantiene alejados mosquitos e insectos.",
+        "description": "Limpiador a base de citronella para el hogar. Mantiene alejados mosquitos e insectos.",
+        "featured": false
+    },
+    {
+        "id": 31,
+        "name": "Suavizante Maas",
+        "price": 5000,
+        "category": "linea-a-granel",
+        "image": "/imagenes/suavizante-maas.png",
+        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "featured": false,
+        "lavado":true
+    },
+     {
+        "id": 51,
+        "name": "Suavizante Maas",
+        "price": 5000,
+        "category": "lavado",
+        "image": "/imagenes/suavizante-maas.png",
+        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "featured": false
+    },
+    {
+        "id": 32,
+        "name": "Suavizante Dclod",
+        "price": 5500,
+        "category": "linea-dclod",
+        "image": "/imagenes/suavizante-dclod.png",
+        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "featured": false,
+        "lavado":true
+    },
+    {
+        "id": 52,
+        "name": "Suavizante Dclod",
+        "price": 5500,
+        "category": "lavado",
+        "image": "/imagenes/suavizante-dclod.png",
+        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "featured": false
+    },
+     {
+        "id": 33,
+        "name": "Desodorante Limpiador Citronella Dclod",
+        "price": 3500,
+        "category": "linea-dclod",
+        "image": "/imagenes/citronella-dclod.png",
+        "description": "Limpiador a base de citronella para el hogar. Mantiene alejados mosquitos e insectos.",
+        "featured": false
+    },
+     {
+        "id": 34,
+        "name": "Desodorante Limpiador Marina Dclod",
+        "price": 3500,
+        "category": "linea-dclod",
+        "image": "/imagenes/marina-dclod.png",
+        "description": "Limpiador multiusos con fragancia a Marina.Ideal para limpieza diaria.",
+        "featured": false
+    },
+     {
+        "id": 35,
+        "name": "Desodorante Limpiador Lavanda Dclod",
+        "price": 3500,
+        "category": "linea-dclod",
+        "image": "/imagenes/lavanda-dclod.png",
+        "description": "Desodorante Limpiador con fragancia a lavanda.Limpia, desinfecta y desodoriza.",
+        "featured": false
+    },
+     {
+        "id": 36,
+        "name": "Desodorante Limpiador Limon Dclod",
+        "price": 3500,
+        "category": "linea-dclod",
+        "image": "/imagenes/limon-dclod.png",
+        "description": "Limpiador multiusos con fragancia a limón. Desengrasante y desinfectante natural.",
+        "featured": false
+    },
+     {
+        "id": 37,
+        "name": "Desodorante Limpiador Pino Dclod",
+        "price": 3500,
+        "category": "linea-dclod",
+        "image": "/imagenes/pino-dclod.png",
+        "description": "Desodorante Limpiador con fragancia Pino.Limpia, desinfecta y desodoriza.",
+        "featured": false
+    },
+     {
+        "id": 38,
+        "name": "Lavandina Concentrada Dclod",
+        "price": 3500,
+        "category": "linea-dclod",
+        "image": "/imagenes/lavandina-maas.png",
+        "description": "Lavandina con 55gCl/l con gran poder de desinfeccion.",
+        "featured": false
+    },
+     {
+        "id": 39,
+        "name": "Limpia Vidrios Dclod",
+        "price": 5600,
+        "category": "linea-dclod",
+        "image": "/imagenes/limpia-vidrios-dclod.png",
+        "description": "Limpia vidrios y multiusos. Deja superficies transparentes y sin rayas.",
+        "featured": false
+    },
+     {
+        "id": 40,
+        "name": "Cera Autobrillo Dclod",
+        "price": 21800,
+        "category": "linea-dclod",
+        "image": "/imagenes/cera-dclod.png",
+        "description": "Cera incolora autobrillo para pisos ceramicos",
+        "featured": false
+    },
+    {
+        "id": 41,
+        "name": "Cera Autobrillo Maas",
+        "price": 20000,
+        "category": "linea-a-granel",
+        "image": "/imagenes/cera-maas.png",
+        "description": "Cera incolora autobrillo para pisos ceramicos",
+        "featured": false
+    },
+    {
+        "id": 42,
+        "name": "Limpia Motores Dclod",
+        "price": 12000,
+        "category": "linea-dclod",
+        "image": "/imagenes/limpiamotores-maas.png",
+        "description": "Poderoso desengrasante alcalino ideal para grasa de motores y parrillas",
+        "featured": false
+    },
+    {
+        "id": 43,
+        "name": "Desodorante Limpiador Pino Maas",
+        "price": 3000,
+        "category": "linea-a-granel",
+        "image": "/imagenes/pino-maas.png",
+        "description": "Desodorante Limpiador con fragancia Pino.Limpia, desinfecta y desodoriza.",
+        "featured": false
+    },
+    {
+        "id": 44,
+        "name": "Perfumina Botella Dclod",
+        "price": 3500,
+        "category": "linea-dclod",
+        "image": "/imagenes/perfumina-dclod.png",
+        "description": "Perfumina en botella de 500cc. Ideal para negocios, lavanderías y uso intensivo.",
+        "featured": false,
+        "lavado": true
+    },
+     {
+        "id": 53,
+        "name": "Perfumina Botella Dclod",
+        "price": 3500,
+        "category": "lavado",
+        "image": "/imagenes/perfumina-dclod.png",
+        "description": "Perfumina en botella de 500cc. Ideal para negocios, lavanderías y uso intensivo.",
         "featured": false
     }
 ]
