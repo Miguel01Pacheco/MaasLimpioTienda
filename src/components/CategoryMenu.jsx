@@ -11,8 +11,8 @@ const CATEGORIES = [
     /** { slug: 'limpieza-del-hogar', label: 'Limpieza del Hogar', icon: 'bi-house-heart' }, */
    
     { slug: 'piscinas', label: 'Piscinas', icon: 'bi-droplet-half' },
-    { slug: 'linea-a-granel', label: 'Línea a Granel', icon: 'bi-bag' },
-    { slug: 'linea-dclod', label: 'Línea Dclod', icon: 'bi-award' },
+    { slug: 'granel', label: 'Línea a Granel', icon: 'bi-bag' },
+    { slug: 'dclod', label: 'Línea Dclod', icon: 'bi-award' },
     { slug: 'variedad', label: 'Variedad', icon: 'bi-grid' },
 ]
 
