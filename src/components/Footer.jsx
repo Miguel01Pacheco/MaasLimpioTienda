@@ -49,13 +49,6 @@ export default function Footer() {
                                     +54 223 438-9793
                                 </a>
                             </li>
-                            
-                          //  <li>
-                            //    <Link to="/promo">
-                             //       <i className="bi bi-stars me-1"></i>
-                             //       Promo Club Mar Chiquita
-                           //     </Link>
-                        //    </li>
                         </ul>
                     </div>
 
