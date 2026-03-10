@@ -50,10 +50,10 @@ export default function Footer() {
                                 </a>
                             </li>
                             <li>
-                                <Link to="/promo">
+                                {/*<Link to="/promo">
                                     <i className="bi bi-stars me-1"></i>
                                     Promo Club Mar Chiquita
-                                </Link>
+                                </Link>*/}
                             </li>
                         </ul>
                     </div>
