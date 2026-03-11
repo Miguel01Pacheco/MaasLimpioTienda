@@ -516,6 +516,6 @@
         "category": "piscinas",
         "image": "/imagenes/alguicida-dclod.png",
         "description": "Agua más limpia, clara y libre de algas.",
-        "featured": true
+        "featured": false
     }
 ]
