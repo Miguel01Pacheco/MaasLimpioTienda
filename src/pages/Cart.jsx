@@ -140,6 +140,10 @@ export default function Cart() {
                             rel="noopener noreferrer"
                             className="btn-whatsapp"
                             id="btnWhatsApp"
+                            onClick={() => {
+                                // Pequeño retraso para asegurar que se abra WhatsApp antes de limpiar el carrito
+                                setTimeout(() => clearCart(), 150);
+                            }}
                         >
                             <i className="bi bi-whatsapp" style={{ fontSize: '1.3rem' }}></i>
                             Enviar pedido por WhatsApp
