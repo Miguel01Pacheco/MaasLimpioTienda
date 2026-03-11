@@ -10,30 +10,30 @@
     },
     {
         "id": 2,
-        "name": "Desodorante Limpiador Lavanda Maas",
+        "name": "Desodorante Lavanda Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/lavanda-maas.png",
-        "description": "Desodorante Limpiador con fragancia a lavanda.Limpia, desinfecta y desodoriza.",
-        "featured": true
+        "description": "Desodorante con fragancia a lavanda.Limpia, desinfecta y desodoriza.",
+        "featured": false
     },
     {
         "id": 3,
         "name": "Jabón Verde Maas",
         "price": 8000,
         "category": "granel",
-        "image": "/imagenes/jabon-verde-maas.jpeg",
+        "image": "/imagenes/pino-maas.png",
         "description": "Jabon premium de baja espuma. Lava, cuida y perfuma la ropa.",
-        "featured": true
+        "featured": false
     },
      {
         "id": 45,
         "name": "Jabón Verde Maas",
         "price": 8000,
         "category": "lavado",
-        "image": "/imagenes/jabon-verde-maas.jpeg",
+        "image": "/imagenes/pino-maas.png",
         "description": "Jabon premium de baja espuma. Lava, cuida y perfuma la ropa.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 4,
@@ -42,8 +42,8 @@
         "category": "granel",
         "image": "/imagenes/jabon-azul-maas.png",
         "description": "Jabón azul ideal para ropa de trabajo, uniformes escolares y lavado a mano.",
-        "featured": true,
-        "lavado":true
+        "featured": false,
+        "lavado":false
     },
     {
         "id": 46,
@@ -52,11 +52,11 @@
         "category": "lavado",
         "image": "/imagenes/jabon-azul-maas.png",
         "description": "Jabón azul ideal para ropa de trabajo, uniformes escolares y lavado a mano.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 5,
-        "name": "Desodorante Limpiador Marina Maas",
+        "name": "Desodorante Marina Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/marina-maas.png",
@@ -79,7 +79,7 @@
         "category": "limpieza-del-hogar",
         "image": "/imagenes/lavandina-maas.png",
         "description": "Lavandina concentrada para limpieza y desinfección del hogar. Máximo poder blanqueador.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 8,
@@ -88,7 +88,7 @@
         "category": "granel",
         "image": "/imagenes/desengrasante-maas.png",
         "description": "Desengrasante potente para cocinas, hornos y superficies grasas. Acción rápida.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 9,
@@ -101,7 +101,7 @@
     },
     {
         "id": 10,
-        "name": "Desodorante Limpiador Pino Maas",
+        "name": "Desodorante Pino Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/pino-maas.png",
@@ -110,7 +110,7 @@
     },
     {
         "id": 11,
-        "name": "Detergente Lavavajillas Maas",
+        "name": "Lavavajillas Maas",
         "price": 6000,
         "category": "granel",
         "image": "/imagenes/lavavajillas-maas.png",
@@ -119,7 +119,7 @@
     },
     {
         "id": 12,
-        "name": "Desodorante Limpiador Limon Maas",
+        "name": "Desodorante Limon Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/limon-maas.png",
@@ -128,7 +128,7 @@
     },
     {
         "id": 13,
-        "name": "Desodorante Limpiador Pino Menta Maas",
+        "name": "Desodorante Pino Menta Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/pino-menta-maas.jpeg",
@@ -142,7 +142,7 @@
         "category": "dclod",
         "image": "/imagenes/cloro-dclod.png",
         "description": "Hipoclorio de sodio con una concentracion de 100gCl/l.",
-        "featured": true
+        "featured": false
     },
      {
         "id": 47,
@@ -151,7 +151,7 @@
         "category": "piscinas",
         "image": "/imagenes/cloro-dclod.png",
         "description": "Hipoclorio de sodio con una concentracion de 100gCl/l.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 15,
@@ -169,7 +169,7 @@
         "category": "piscinas",
         "image": "/imagenes/pastillas-triple-accion-dclod.png",
         "description": "Pastillas de cloro de triple acción: desinfección, algicida y clarificador en una sola.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 17,
@@ -178,8 +178,8 @@
         "category": "granel",
         "image": "/imagenes/perfumina-bidon-maas.png",
         "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
-        "featured": true,
-        "lavado":true
+        "featured": false,
+        "lavado":false
     },
      {
         "id": 48,
@@ -188,7 +188,7 @@
         "category": "lavado",
         "image": "/imagenes/perfumina-bidon-maas.png",
         "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
-        "featured": true
+        "featured": false
     },
      {
         "id": 49,
@@ -197,7 +197,7 @@
         "category": "lavado",
         "image": "/imagenes/perfumina-bidon-maas.png",
         "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 18,
@@ -207,11 +207,11 @@
         "image": "/imagenes/perfumina-bidon-dclod.png",
         "description": "Perfumina premium Dclod en bidón de 5 litros. Fragancia intensa y duradera a granel.",
         "featured": false,
-        "lavado":true
+        "lavado":false
     },
     {
         "id": 19,
-        "name": "Desodorante Limpiador Arpege Maas",
+        "name": "Desodorante Arpege Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/arpege-maas.png",
@@ -225,7 +225,7 @@
         "category": "dclod",
         "image": "/imagenes/deter-30-dclod.png",
         "description": "Detergente 30 activo línea Dclod. Formulación premium para mayor rendimiento.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 21,
@@ -245,18 +245,9 @@
         "description": "Jabón azul línea Dclod. Fórmula ideal para lavado diario.",
         "featured": false
     },
-     {
-        "id": 50,
-        "name": "Jabón Azul Dclod",
-        "price": 5000,
-        "category": "dclod",
-        "image": "/imagenes/jabon-azul-dclod.png",
-        "description": "Jabón azul línea Dclod. Fórmula ideal para lavado diario.",
-        "featured": false
-    },
     {
         "id": 23,
-        "name": "Desodorante Limpiador Cherry Dclod",
+        "name": "Desodorante Cherry Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/cherry-dclod.png",
@@ -265,7 +256,7 @@
     },
     {
         "id": 24,
-        "name": "Detergente Lavavajillas Dclod",
+        "name": "Lavavajillas Dclod",
         "price": 6400,
         "category": "dclod",
         "image": "/imagenes/lavavajillas-dclod.png",
@@ -274,16 +265,16 @@
     },
     {
         "id": 25,
-        "name": "Desodorante Limpiador Colonia Dclod",
+        "name": "Desodorante Colonia Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/colonia-dclod.png",
         "description": "Limpiador Colonia Dclod de fragancia exclusiva. Perfume suave y sofisticado para toda la familia.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 26,
-        "name": "Desodorante Limpiador Arpege Dclod",
+        "name": "Desodorante Arpege Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/arpege-dclod.png",
@@ -292,7 +283,7 @@
     },
     {
         "id": 27,
-        "name": "Desodorante Limpiador Colonia Maas",
+        "name": "Desodorante Colonia Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/colonia-maas.png",
@@ -315,11 +306,11 @@
         "category": "dclod",
         "image": "/imagenes/jabon-para-autos-dclod.png",
         "description": "Shampoo especial para autos. Brillo intenso sin dañar la pintura ni las gomas.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 30,
-        "name": "Desodorante Limpiador Citronella Maas",
+        "name": "Desodorante Citronella Maas",
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/citronella-maas.png",
@@ -334,7 +325,7 @@
         "image": "/imagenes/suavizante-maas.png",
         "description": "Suavizante para ropa aroma clasico usado en lavaderos",
         "featured": false,
-        "lavado":true
+        "lavado":false
     },
      {
         "id": 51,
@@ -353,7 +344,7 @@
         "image": "/imagenes/suavizante-dclod.png",
         "description": "Suavizante para ropa aroma clasico usado en lavaderos",
         "featured": false,
-        "lavado":true
+        "lavado":false
     },
     {
         "id": 52,
@@ -414,7 +405,7 @@
         "name": "Lavandina Concentrada Dclod",
         "price": 3500,
         "category": "dclod",
-        "image": "/imagenes/lavandina-maas.png",
+        "image": "/imagenes/lavandina-dclod.jpeg",
         "description": "Lavandina con 55gCl/l con gran poder de desinfeccion.",
         "featured": false
     },
@@ -471,7 +462,7 @@
         "image": "/imagenes/perfumina-dclod.png",
         "description": "Perfumina en botella de 500cc. Ideal para negocios, lavanderías y uso intensivo.",
         "featured": false,
-        "lavado": true
+        "lavado": false
     },
      {
         "id": 53,
@@ -481,5 +472,50 @@
         "image": "/imagenes/perfumina-dclod.png",
         "description": "Perfumina en botella de 500cc. Ideal para negocios, lavanderías y uso intensivo.",
         "featured": false
+    },
+     {
+        "id": 56,
+        "name": "Promocion Lavado",
+        "price": 15000,
+        "category": "lavado",
+        "image": "/imagenes/promo-lavado.png",
+        "description": "Jabon liquido, suavizante y una botella de perfumina",
+        "featured": true
+    },
+     {
+        "id": 57,
+        "name": "Promocion Limpieza",
+        "price": 5000,
+        "category": "granel",
+        "image": "/imagenes/promo-lav.png",
+        "description": "Lavandina concentrada y desodorante de pisos",
+        "featured": true
+    },
+     {
+        "id": 5,
+        "name": "Promocion Higienico",
+        "price": 3000,
+        "category": "",
+        "image": "/imagenes/papel-higienico.png",
+        "description": "Papel blanco hoja simple 4x30mts lleva 2 paquetes x ",
+        "featured": true
+    },
+     {
+        "id": 58,
+        "name": "Promocion Rollos",
+        "price": 3000,
+        "category": "",
+        "image": "/imagenes/rollo-de-cocina.png",
+        "description": "Rollos de cocina 120 paños lleva 2 paquetes x",
+        "featured": true
+    },
+     {
+        "id": 59,
+        "name": "Alguicida Dclod",
+        "price": 18900,
+        "category": "piscinas",
+        "image": "/imagenes/alguicida-dclod.png",
+        "description": "Agua más limpia, clara y libre de algas.",
+        "featured": true
     }
 ]
