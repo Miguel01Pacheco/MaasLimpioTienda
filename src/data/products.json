@@ -493,20 +493,20 @@
     },
      {
         "id": 5,
-        "name": "Promocion Higienico",
+        "name": "Papel Higienico",
         "price": 3000,
         "category": "",
         "image": "/imagenes/papel-higienico.png",
-        "description": "Papel blanco hoja simple 4x30mts lleva 2 paquetes x ",
+        "description": "Papel blanco hoja simple lleva 2x 3000",
         "featured": true
     },
      {
         "id": 58,
-        "name": "Promocion Rollos",
+        "name": "Rollos de Cocina",
         "price": 3000,
         "category": "",
         "image": "/imagenes/rollo-de-cocina.png",
-        "description": "Rollos de cocina 120 paños lleva 2 paquetes x",
+        "description": "Rollos de cocina 120 paños 2x3000",
         "featured": true
     },
      {
