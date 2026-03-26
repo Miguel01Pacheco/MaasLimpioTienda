@@ -5,7 +5,7 @@
         "price": 19500,
         "category": "granel",
         "image": "/imagenes/deter-30-maas.png",
-        "description": "Detergente concentrado de alto rendimiento con 30% de materia acttiva.",
+        "description": "Detergente concentrado de alto rendimiento. Su fórmula con 30% de materia activa garantiza limpieza profunda y eficiente. Especial para uso industrial.",
         "featured": false
     },
     {
@@ -14,7 +14,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/lavanda-maas.png",
-        "description": "Desodorante con fragancia a lavanda.Limpia, desinfecta y desodoriza.",
+        "description": "Experimentá frescura duradera. Limpia, desinfecta y perfuma tus espacios en un solo paso, creando un ambiente relajante con aroma a lavanda.",
         "featured": false
     },
     {
@@ -23,16 +23,16 @@
         "price": 8000,
         "category": "granel",
         "image": "/imagenes/pino-maas.png",
-        "description": "Jabon premium de baja espuma. Lava, cuida y perfuma la ropa.",
+        "description": "Exclusivo jabón líquido premium de baja espuma. Cuida las prendas eliminando manchas difíciles y dejando un exquisito aroma a limpio en cada lavado.",
         "featured": false
     },
-     {
+    {
         "id": 45,
         "name": "Jabón Verde Maas",
         "price": 8000,
         "category": "lavado",
         "image": "/imagenes/pino-maas.png",
-        "description": "Jabon premium de baja espuma. Lava, cuida y perfuma la ropa.",
+        "description": "Exclusivo jabón líquido premium de baja espuma. Cuida las prendas eliminando manchas difíciles y dejando un exquisito aroma a limpio en cada lavado.",
         "featured": false
     },
     {
@@ -41,9 +41,9 @@
         "price": 4500,
         "category": "granel",
         "image": "/imagenes/jabon-azul-maas.png",
-        "description": "Jabón azul ideal para ropa de trabajo, uniformes escolares y lavado a mano.",
+        "description": "Poder removedor diseñado especialmente para ropa de trabajo y uniformes. Lavado a mano o máquina, asegurando blancura y color impecables.",
         "featured": false,
-        "lavado":false
+        "lavado": false
     },
     {
         "id": 46,
@@ -51,7 +51,7 @@
         "price": 4500,
         "category": "lavado",
         "image": "/imagenes/jabon-azul-maas.png",
-        "description": "Jabón azul ideal para ropa de trabajo, uniformes escolares y lavado a mano.",
+        "description": "Poder removedor diseñado especialmente para ropa de trabajo y uniformes. Lavado a mano o máquina, asegurando blancura y color impecables.",
         "featured": false
     },
     {
@@ -60,7 +60,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/marina-maas.png",
-        "description": "Desodorante Limpiador con fragancia marina.Limpia, desinfecta y desodoriza.",
+        "description": "La brisa del mar en tu hogar. Este limpiador desinfecta superficies y neutraliza olores al instante, dejando una sensación de pureza incomparable.",
         "featured": false
     },
     {
@@ -69,7 +69,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/cherry-maas.png",
-        "description": "Desodorante Limpiador con fragancia cherry.Limpia, desinfecta y desodoriza.",
+        "description": "Limpieza profunda con un toque dulce y audaz. Desinfecta a fondo y perfuma con una intensa fragancia a cereza, ideal para renovar tu hogar.",
         "featured": false
     },
     {
@@ -78,7 +78,7 @@
         "price": 3000,
         "category": "limpieza-del-hogar",
         "image": "/imagenes/lavandina-maas.png",
-        "description": "Lavandina concentrada para limpieza y desinfección del hogar. Máximo poder blanqueador.",
+        "description": "Máxima pureza y protección. Excelente poder blanqueador inigualable y una desinfección total contra gérmenes, hongos y bacterias.",
         "featured": false
     },
     {
@@ -87,7 +87,7 @@
         "price": 6000,
         "category": "granel",
         "image": "/imagenes/desengrasante-maas.png",
-        "description": "Desengrasante potente para cocinas, hornos y superficies grasas. Acción rápida.",
+        "description": "La solución definitiva contra la grasa rebelde. Acción ultrarrápida para disolver suciedad incrustada en cocinas y hornos, casi sin esfuerzo.",
         "featured": false
     },
     {
@@ -96,7 +96,7 @@
         "price": 5000,
         "category": "granel",
         "image": "/imagenes/limpia-vidrios-maas.png",
-        "description": "Limpia vidrios y multiusos. Deja superficies transparentes y sin rayas.",
+        "description": "Cristales impecables y secado instantáneo. Formulado para dejar ventanas y espejos 100% transparentes, libre de marcas, vetas o residuos.",
         "featured": false
     },
     {
@@ -105,7 +105,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/pino-maas.png",
-        "description": "Limpiador a base de pino. Desinfecta y perfuma pisos y superficies con aroma fresco.",
+        "description": "El clásico poder del pino. Desinfectante profundo que elimina bacterias y aporta un fresco aroma a bosque a todo tipo de pisos y superficies.",
         "featured": false
     },
     {
@@ -114,7 +114,7 @@
         "price": 6000,
         "category": "granel",
         "image": "/imagenes/lavavajillas-maas.png",
-        "description": "Detergente líquido ideal para el lavado de vajillas. Elimina grasa y restos de comida con facilidad.",
+        "description": "Poder antigrasa concentrado. Su fórmula avanza remueve restos de comida reseca con mínimo esfuerzo, cuidando tus manos con alto rendimiento.",
         "featured": false
     },
     {
@@ -123,7 +123,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/limon-maas.png",
-        "description": "Limpiador multiusos con fragancia a limón. Desengrasante y desinfectante natural.",
+        "description": "El poder cítrico al servicio de la limpieza. Un multiuso que desengrasa eficazmente mientras sanitiza y deja un refrescante perfume a limón natural.",
         "featured": false
     },
     {
@@ -132,7 +132,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/pino-menta-maas.jpeg",
-        "description": "Limpiador pino-menta refrescante. Ideal para baños, cocinas y pisos en general.",
+        "description": "Doble acción refrescante. La combinación perfecta de pino y menta para una limpieza superior, eliminando bacterias de todas tus salas.",
         "featured": false
     },
     {
@@ -141,16 +141,16 @@
         "price": 6900,
         "category": "dclod",
         "image": "/imagenes/cloro-dclod.png",
-        "description": "Hipoclorio de sodio con una concentracion de 100gCl/l.",
+        "description": "Cloro de máxima concentración (100g Cl/l). Altamente efectivo para la desinfección integral y tratamiento sanitario de aguas. Calidad garantizada.",
         "featured": false
     },
-     {
+    {
         "id": 47,
         "name": "Cloro Dclod",
         "price": 6900,
         "category": "piscinas",
         "image": "/imagenes/cloro-dclod.png",
-        "description": "Hipoclorio de sodio con una concentracion de 100gCl/l.",
+        "description": "Cloro de máxima concentración (100g Cl/l). Altamente efectivo para la desinfección integral y tratamiento sanitario de aguas. Calidad garantizada.",
         "featured": false
     },
     {
@@ -159,7 +159,7 @@
         "price": 15900,
         "category": "piscinas",
         "image": "/imagenes/clarificador-dclod.png",
-        "description": "Clarificador de agua para piscinas. Elimina turbiedad y partículas en suspensión.",
+        "description": "Agua cristalina en tu piscina al instante. Este potente producto agrupa partículas en suspensión, eliminando la turbidez y devolviendo transparencia.",
         "featured": false
     },
     {
@@ -168,7 +168,7 @@
         "price": 8500,
         "category": "piscinas",
         "image": "/imagenes/pastillas-triple-accion-dclod.png",
-        "description": "Pastillas de cloro de triple acción: desinfección, algicida y clarificador en una sola.",
+        "description": "Cuidado integral para tu piscina. Desinfectante, alguicida y clarificador de lenta disolución en un solo paso súper práctico y duradero.",
         "featured": false
     },
     {
@@ -177,26 +177,26 @@
         "price": 25000,
         "category": "granel",
         "image": "/imagenes/perfumina-bidon-maas.png",
-        "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
+        "description": "Aromatización profesional de alta persistencia. Especial lavanderías, comercios y hogares, en conveniente y económico formato de 5 Litros.",
         "featured": false,
-        "lavado":false
+        "lavado": false
     },
-     {
+    {
         "id": 48,
         "name": "Perfumina Bidón Maas",
         "price": 25000,
         "category": "lavado",
         "image": "/imagenes/perfumina-bidon-maas.png",
-        "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
+        "description": "Aromatización profesional de alta persistencia. Especial lavanderías, comercios y hogares, en conveniente y económico formato de 5 Litros.",
         "featured": false
     },
-     {
+    {
         "id": 49,
         "name": "Perfumina Bidón Dclod",
         "price": 25000,
         "category": "lavado",
         "image": "/imagenes/perfumina-bidon-maas.png",
-        "description": "Perfumina en bidón de 5 litros. Ideal para negocios, lavanderías y uso intensivo.",
+        "description": "Aromatización premium y vibrante en gran formato. Fragancia intensa y perdurable, ideal para telas y ambientes en lavanderías o el hogar.",
         "featured": false
     },
     {
@@ -205,9 +205,9 @@
         "price": 25000,
         "category": "dclod",
         "image": "/imagenes/perfumina-bidon-dclod.png",
-        "description": "Perfumina premium Dclod en bidón de 5 litros. Fragancia intensa y duradera a granel.",
+        "description": "Aromatización premium y vibrante en gran formato. Fragancia intensa y perdurable, ideal para telas y ambientes en lavanderías o el hogar.",
         "featured": false,
-        "lavado":false
+        "lavado": false
     },
     {
         "id": 19,
@@ -215,7 +215,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/arpege-maas.png",
-        "description": "Desodorante Limpiador con fragancia a floral.Limpia, desinfecta y desodoriza.",
+        "description": "Sofisticación en cada rincón. Desinfecta pisos y superficies mientras provee una refinada fragancia floral Arpege, de alta duración.",
         "featured": false
     },
     {
@@ -224,7 +224,7 @@
         "price": 19600,
         "category": "dclod",
         "image": "/imagenes/deter-30-dclod.png",
-        "description": "Detergente 30 activo línea Dclod. Formulación premium para mayor rendimiento.",
+        "description": "Biodegradable y de máxima pureza. Su alta concentración activa rinde extraordinariamente y es gran aliada para exigencias industriales y pesadas.",
         "featured": false
     },
     {
@@ -233,7 +233,7 @@
         "price": 8300,
         "category": "dclod",
         "image": "/imagenes/deter-rojo-dclod.png",
-        "description": "Detergente rojo Dclod de alta concentración. Ideal para ropa oscura y colores intensos.",
+        "description": "Detergente líquido premium para indumentaria exigente. Cuida celosamente las prendas evitando el desgaste y brindando higiene profunda.",
         "featured": false
     },
     {
@@ -242,7 +242,7 @@
         "price": 5000,
         "category": "dclod",
         "image": "/imagenes/jabon-azul-dclod.png",
-        "description": "Jabón azul línea Dclod. Fórmula ideal para lavado diario.",
+        "description": "Remoción profunda de manchas con cuidado superior de los tejidos, brindando frescura asombrosa en cada carga del lavarropas.",
         "featured": false
     },
     {
@@ -251,7 +251,7 @@
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/cherry-dclod.png",
-        "description": "Desodorante Limpiador con fragancia cherry.Limpia, desinfecta y desodoriza.",
+        "description": "Higiene y vitalidad extrema. Limpiador con atrevida fragancia a Cherry de línea Dclod para pisos relucientes y perfumados largas horas.",
         "featured": false
     },
     {
@@ -260,7 +260,7 @@
         "price": 6400,
         "category": "dclod",
         "image": "/imagenes/lavavajillas-dclod.png",
-        "description": "Lavavajillas Dclod con fórmula desengrasante avanzada.",
+        "description": "Tecnología desengrasante Dclod. Espuma densa y activa de fácil enjuague, que corta la grasa al instante dejando vajilla y cubiertos impecables.",
         "featured": false
     },
     {
@@ -269,7 +269,7 @@
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/colonia-dclod.png",
-        "description": "Limpiador Colonia Dclod de fragancia exclusiva. Perfume suave y sofisticado para toda la familia.",
+        "description": "Exclusivo aroma suave, fresco y con mucha distinción. Un limpiador que deja un rastro sofisticado en cada piso y rincón de tu casa.",
         "featured": false
     },
     {
@@ -278,7 +278,7 @@
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/arpege-dclod.png",
-        "description": "Desodorante Limpiador con fragancia floral.Limpia, desinfecta y desodoriza.",
+        "description": "Desinfección poderosa y la más delicada fragancia floral. Un mix ideal para renovar los espacios y mantener alejados agentes nocivos.",
         "featured": false
     },
     {
@@ -287,7 +287,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/colonia-maas.png",
-        "description": "Limpiador Colonia Maas para el hogar. Aroma fresco y duradero, ideal para toda la familia.",
+        "description": "Limpiador para el hogar de aroma fresco, duradero y muy familiar. Limpia profundamente y llena tus ambientes de vibras renovadas.",
         "featured": false
     },
     {
@@ -296,7 +296,7 @@
         "price": 7800,
         "category": "dclod",
         "image": "/imagenes/jabon-manos-dclod.png",
-        "description": "Jabón líquido para manos con aloe vera. Higieniza y cuida la piel con cada lavado.",
+        "description": "Higiene profunda con extractos de uso cosmético. Jabón líquido de calidad premium que higieniza tus manos preservando su humedad natural.",
         "featured": false
     },
     {
@@ -305,7 +305,7 @@
         "price": 11000,
         "category": "dclod",
         "image": "/imagenes/jabon-para-autos-dclod.png",
-        "description": "Shampoo especial para autos. Brillo intenso sin dañar la pintura ni las gomas.",
+        "description": "Shampoo formulado para carrocerías. Desincrusta el barro y genera un acabado espejo, protegiendo llantas y ceras sin generar micro rayaduras.",
         "featured": false
     },
     {
@@ -314,7 +314,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/citronella-maas.png",
-        "description": "Limpiador a base de citronella para el hogar. Mantiene alejados mosquitos e insectos.",
+        "description": "Limpieza protectora y natural. Formulado con extracto de citronella, repele insectos molestos al tiempo que mantiene tus espacios desinfectados.",
         "featured": false
     },
     {
@@ -323,17 +323,17 @@
         "price": 5000,
         "category": "granel",
         "image": "/imagenes/suavizante-maas.png",
-        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "description": "El toque clásico de los mejores lavaderos. Relaja las fibras, facilita de inmediato el planchado y deja un perfume duradero en tu ropa.",
         "featured": false,
-        "lavado":false
+        "lavado": false
     },
-     {
+    {
         "id": 51,
         "name": "Suavizante Maas",
         "price": 5000,
         "category": "lavado",
         "image": "/imagenes/suavizante-maas.png",
-        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "description": "El toque clásico de los mejores lavaderos. Relaja las fibras, facilita de inmediato el planchado y deja un perfume duradero en tu ropa.",
         "featured": false
     },
     {
@@ -342,9 +342,9 @@
         "price": 5500,
         "category": "dclod",
         "image": "/imagenes/suavizante-dclod.png",
-        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "description": "Suavidad insuperable formulación premium. Trata las fibras aportando frescura profunda y facilita el paso de la plancha para resultados excelentes.",
         "featured": false,
-        "lavado":false
+        "lavado": false
     },
     {
         "id": 52,
@@ -352,79 +352,79 @@
         "price": 5500,
         "category": "lavado",
         "image": "/imagenes/suavizante-dclod.png",
-        "description": "Suavizante para ropa aroma clasico usado en lavaderos",
+        "description": "Suavidad insuperable formulación premium. Trata las fibras aportando frescura profunda y facilita el paso de la plancha para resultados excelentes.",
         "featured": false
     },
-     {
+    {
         "id": 33,
         "name": "Desodorante Limpiador Citronella Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/citronella-dclod.png",
-        "description": "Limpiador a base de citronella para el hogar. Mantiene alejados mosquitos e insectos.",
+        "description": "Escudo repelente. Especialmente ideado para repeler insectos aromáticamente y brindar profunda higiene en tus pisos exteriores e interiores.",
         "featured": false
     },
-     {
+    {
         "id": 34,
         "name": "Desodorante Limpiador Marina Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/marina-dclod.png",
-        "description": "Limpiador multiusos con fragancia a Marina.Ideal para limpieza diaria.",
+        "description": "Fragancia oceánica que revive tus sentidos. Desinfección completa y fragancia energizante para salas, pasillos, baños y cocinas completas.",
         "featured": false
     },
-     {
+    {
         "id": 35,
         "name": "Desodorante Limpiador Lavanda Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/lavanda-dclod.png",
-        "description": "Desodorante Limpiador con fragancia a lavanda.Limpia, desinfecta y desodoriza.",
+        "description": "Clásica y eterna Lavanda. Desinfecta a fondo y elimina bacterias mientras provee la más absoluta relajación a través de su esencia pura.",
         "featured": false
     },
-     {
+    {
         "id": 36,
         "name": "Desodorante Limpiador Limon Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/limon-dclod.png",
-        "description": "Limpiador multiusos con fragancia a limón. Desengrasante y desinfectante natural.",
+        "description": "Eficaz limpiador con notas vibrantes de cítricos. Corta la grasitud superficial y promueve un ambiente altamente enérgico y sanitizado.",
         "featured": false
     },
-     {
+    {
         "id": 37,
         "name": "Desodorante Limpiador Pino Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/pino-dclod.png",
-        "description": "Desodorante Limpiador con fragancia Pino.Limpia, desinfecta y desodoriza.",
+        "description": "Fuerza agreste contra la suciedad. Gran poder de desinfección y limpieza potenciando un aroma a pino fresco sobre todas tus superficies lavables.",
         "featured": false
     },
-     {
+    {
         "id": 38,
         "name": "Lavandina Concentrada Dclod",
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/lavandina-dclod.jpeg",
-        "description": "Lavandina con 55gCl/l con gran poder de desinfeccion.",
+        "description": "Poder de desinfección supremo con 55g Cl/l. Blancura increíble para tu ropa blanca o lavado exigente y sanitización de excelencia garantizada.",
         "featured": false
     },
-     {
+    {
         "id": 39,
         "name": "Limpia Vidrios Dclod",
         "price": 5600,
         "category": "dclod",
         "image": "/imagenes/limpia-vidrios-dclod.png",
-        "description": "Limpia vidrios y multiusos. Deja superficies transparentes y sin rayas.",
+        "description": "Brillo inmediato anticongelante. No deja marcas y seca al instante, haciendo de espejos y ventanas, la superficie del hogar con máxima transparencia.",
         "featured": false
     },
-     {
+    {
         "id": 40,
         "name": "Cera Autobrillo Dclod",
         "price": 21800,
         "category": "dclod",
         "image": "/imagenes/cera-dclod.png",
-        "description": "Cera incolora autobrillo para pisos ceramicos",
+        "description": "Protección para tus pisos sin necesidad de lustrar. Realza la belleza originaria de cerámicas y porcelanatos brindando un acabado cristal profesional.",
         "featured": false
     },
     {
@@ -433,7 +433,7 @@
         "price": 20000,
         "category": "granel",
         "image": "/imagenes/cera-maas.png",
-        "description": "Cera incolora autobrillo para pisos ceramicos",
+        "description": "Poder cubritivo e impermeabilización deslumbrante. Mantén tus pisos cerámicos libres de desgaste y altamente atractivos, brillando por sí mismos.",
         "featured": false
     },
     {
@@ -442,7 +442,7 @@
         "price": 12000,
         "category": "dclod",
         "image": "/imagenes/limpiamotores-maas.png",
-        "description": "Poderoso desengrasante alcalino ideal para grasa de motores y parrillas",
+        "description": "Potente quitagrasas industrial. Penetra la grasa endurecida en bloques de motor y parrillas rápidamente restituyendo el acabado limpio original.",
         "featured": false
     },
     {
@@ -451,7 +451,7 @@
         "price": 3000,
         "category": "granel",
         "image": "/imagenes/pino-maas.png",
-        "description": "Desodorante Limpiador con fragancia Pino.Limpia, desinfecta y desodoriza.",
+        "description": "Poder tradicional del bosque con efectividad germicida. Limpieza que otorga fragancia duradera y vigorosa combatiendo un amplio espectro bacteriano.",
         "featured": false
     },
     {
@@ -460,62 +460,62 @@
         "price": 3500,
         "category": "dclod",
         "image": "/imagenes/perfumina-dclod.png",
-        "description": "Perfumina en botella de 500cc. Ideal para negocios, lavanderías y uso intensivo.",
+        "description": "Esencia exclusiva en práctico envase de 500cc. Pulveriza la frescura Dclod sobre telas para darles un toque de elegancia prolongada.",
         "featured": false,
         "lavado": false
     },
-     {
+    {
         "id": 53,
         "name": "Perfumina Botella Dclod",
         "price": 3500,
         "category": "lavado",
         "image": "/imagenes/perfumina-dclod.png",
-        "description": "Perfumina en botella de 500cc. Ideal para negocios, lavanderías y uso intensivo.",
+        "description": "Esencia exclusiva en práctico envase de 500cc. Pulveriza la frescura Dclod sobre telas para darles un toque de elegancia prolongada.",
         "featured": false
     },
-     {
+    {
         "id": 56,
         "name": "Promocion Lavado",
-        "price": 15000,
+        "price": 16000,
         "category": "lavado",
-        "image": "/imagenes/promo-lavado.png",
-        "description": "Jabon liquido, suavizante y una botella de perfumina",
+        "image": "/imagenes/promo-lavado-dclod.jpeg",
+        "description": "¡Combo imbatible! Llevá el mejor jabón líquido, suavizante premium y perfumina completa tu ciclo de lavado por menos con este pack promocional.",
         "featured": true
     },
-     {
+    {
         "id": 57,
         "name": "Promocion Limpieza",
         "price": 5000,
         "category": "granel",
         "image": "/imagenes/promo-lav.png",
-        "description": "Lavandina concentrada y desodorante de pisos",
-        "featured": true
+        "description": "Renová tu casa con ahorro garantizado. Nuestro pack incluye lavandina concentrada y un limpiador para sanitización máxima de todos tus pisos.",
+        "featured": false
     },
-     {
+    {
         "id": 5,
         "name": "Papel Higienico",
-        "price": 3000,
+        "price": 1500,
         "category": "",
         "image": "/imagenes/papel-higienico.png",
-        "description": "Papel blanco hoja simple lleva 2x 3000",
-        "featured": true
+        "description": "Excelente costo-rendimiento de uso diario. Textura súper suave, muy resistente en su clásica presentación de hoja simple (rollos x 30 metros).",
+        "featured": false
     },
-     {
+    {
         "id": 58,
         "name": "Rollos de Cocina",
-        "price": 3000,
+        "price": 1500,
         "category": "",
         "image": "/imagenes/rollo-de-cocina.png",
-        "description": "Rollos de cocina 120 paños 2x3000",
-        "featured": true
+        "description": "Máxima y rápida absorción multipropósito. Rollo robusto de 120 excelentes paños ideales para secar derrames y grasas en el uso de la cocina diaria.",
+        "featured": false
     },
-     {
+    {
         "id": 59,
         "name": "Alguicida Dclod",
         "price": 18900,
         "category": "piscinas",
         "image": "/imagenes/alguicida-dclod.png",
-        "description": "Agua más limpia, clara y libre de algas.",
+        "description": "Agua pura y libre de floraciones verdosas todo el verano. Tratamiento hiperconcentrado diseñado para mantener la perfección óptica de tu piscina.",
         "featured": false
     }
 ]

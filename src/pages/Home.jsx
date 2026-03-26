@@ -22,7 +22,7 @@ export default function Home() {
         </div>
         <div className="carousel-inner">
           {/* Slide 1 - Dclod (Violeta Pastel) */}
-          <div className="carousel-item active hero-banner" style={{ background: 'linear-gradient(135deg, #E1BEE7 0%, #CE93D8 100%)' }}>
+          <div className="carousel-item active hero-banner" style={{ background: 'linear-gradient(135deg, rgba(225, 190, 231, 0.85) 0%, rgba(206, 147, 216, 0.85) 100%), url("/imagenes/bg_slide_1.png")', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
             <div className="container" style={{ color: '#4A148C' }}>
               <h1 style={{ color: '#4A148C' }}>Descubrí la<br />Línea Dclod</h1>
               <p style={{ color: '#4A148C' }}>
@@ -35,7 +35,7 @@ export default function Home() {
             </div>
           </div>
           {/* Slide 2 - Variedad (Naranja Pastel) */}
-          <div className="carousel-item hero-banner" style={{ background: 'linear-gradient(135deg, #FFE0B2 0%, #FFCC80 100%)' }}>
+          <div className="carousel-item hero-banner" style={{ background: 'linear-gradient(135deg, rgba(255, 224, 178, 0.85) 0%, rgba(255, 204, 128, 0.85) 100%), url("/imagenes/bg_slide_2.png")', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
             <div className="container" style={{ color: '#E65100' }}>
               <h1 style={{ color: '#E65100' }}>Variedad y facilidad<br />en tu pedido</h1>
               <p style={{ color: '#E65100' }}>
@@ -48,7 +48,7 @@ export default function Home() {
             </div>
           </div>
           {/* Slide 3 - Granel (Verde Pastel) */}
-          <div className="carousel-item hero-banner" style={{ background: 'linear-gradient(135deg, #C8E6C9 0%, #A5D6A7 100%)' }}>
+          <div className="carousel-item hero-banner" style={{ background: 'linear-gradient(135deg, rgba(200, 230, 201, 0.85) 0%, rgba(165, 214, 167, 0.85) 100%), url("/imagenes/bg_slide_3.png")', backgroundSize: 'cover', backgroundPosition: 'center', backgroundRepeat: 'no-repeat' }}>
             <div className="container" style={{ color: '#1B5E20' }}>
               <h1 style={{ color: '#1B5E20' }}>Ahorrá y reutilizá<br />comprando a granel</h1>
               <p style={{ color: '#1B5E20' }}>
@@ -144,6 +144,36 @@ export default function Home() {
         */}
 
       </div>
+
+      {/* ── Botón flotante de WhatsApp solo en Home ── */}
+      <a 
+        href={`https://wa.me/542234389793?text=${encodeURIComponent('Hola, quuiero hacere una consulta!')}`}
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style={{
+          position: 'fixed',
+          bottom: '24px',
+          right: '24px',
+          backgroundColor: '#25D366',
+          color: '#FFF',
+          borderRadius: '50%',
+          width: '60px',
+          height: '60px',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          fontSize: '32px',
+          boxShadow: '0 4px 12px rgba(0,0,0,0.2)',
+          zIndex: 1050,
+          textDecoration: 'none',
+          transition: 'transform 0.2s',
+        }}
+        onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
+        onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
+        aria-label="Consultar por WhatsApp"
+      >
+        <i className="bi bi-whatsapp"></i>
+      </a>
 
     </>
   )
