@@ -147,7 +147,7 @@ export default function Home() {
 
       {/* ── Botón flotante de WhatsApp solo en Home ── */}
       <a 
-        href={`https://wa.me/542234389793?text=${encodeURIComponent('Hola, quuiero hacere una consulta!')}`}
+        href={`https://wa.me/542234389793?text=${encodeURIComponent('Hola, quiero hacer una consulta!')}`}
         target="_blank" 
         rel="noopener noreferrer" 
         style={{
