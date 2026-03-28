@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Detergente Industrial Neutro 30% Maas",
-        "price": 19500,
+        "price": 20000,
         "category": "granel",
         "image": "/imagenes/deter-30-maas.png",
         "description": "Detergente concentrado de alto rendimiento. Su fórmula con 30% de materia activa garantiza limpieza profunda y eficiente. Especial para uso industrial.",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "name": "Desodorante Lavanda Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/lavanda-maas.png",
         "description": "Experimentá frescura duradera. Limpia, desinfecta y perfuma tus espacios en un solo paso, creando un ambiente relajante con aroma a lavanda.",
@@ -57,7 +57,7 @@
     {
         "id": 5,
         "name": "Desodorante Marina Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/marina-maas.png",
         "description": "La brisa del mar en tu hogar. Este limpiador desinfecta superficies y neutraliza olores al instante, dejando una sensación de pureza incomparable.",
@@ -66,7 +66,7 @@
     {
         "id": 6,
         "name": "Desodorante Limpiador Cherry Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/cherry-maas.png",
         "description": "Limpieza profunda con un toque dulce y audaz. Desinfecta a fondo y perfuma con una intensa fragancia a cereza, ideal para renovar tu hogar.",
@@ -75,7 +75,7 @@
     {
         "id": 7,
         "name": "Lavandina Maas",
-        "price": 3000,
+        "price": 4000,
         "category": "limpieza-del-hogar",
         "image": "/imagenes/lavandina-maas.png",
         "description": "Máxima pureza y protección. Excelente poder blanqueador inigualable y una desinfección total contra gérmenes, hongos y bacterias.",
@@ -102,7 +102,7 @@
     {
         "id": 10,
         "name": "Desodorante Pino Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/pino-maas.png",
         "description": "El clásico poder del pino. Desinfectante profundo que elimina bacterias y aporta un fresco aroma a bosque a todo tipo de pisos y superficies.",
@@ -111,7 +111,7 @@
     {
         "id": 11,
         "name": "Lavavajillas Maas",
-        "price": 6000,
+        "price": 6500,
         "category": "granel",
         "image": "/imagenes/lavavajillas-maas.png",
         "description": "Poder antigrasa concentrado. Su fórmula avanza remueve restos de comida reseca con mínimo esfuerzo, cuidando tus manos con alto rendimiento.",
@@ -120,7 +120,7 @@
     {
         "id": 12,
         "name": "Desodorante Limon Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/limon-maas.png",
         "description": "El poder cítrico al servicio de la limpieza. Un multiuso que desengrasa eficazmente mientras sanitiza y deja un refrescante perfume a limón natural.",
@@ -129,7 +129,7 @@
     {
         "id": 13,
         "name": "Desodorante Pino Menta Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/pino-menta-maas.jpeg",
         "description": "Doble acción refrescante. La combinación perfecta de pino y menta para una limpieza superior, eliminando bacterias de todas tus salas.",
@@ -212,7 +212,7 @@
     {
         "id": 19,
         "name": "Desodorante Arpege Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/arpege-maas.png",
         "description": "Sofisticación en cada rincón. Desinfecta pisos y superficies mientras provee una refinada fragancia floral Arpege, de alta duración.",
@@ -221,7 +221,7 @@
     {
         "id": 20,
         "name": "Detergente Industrial Neutro 30% Dclod",
-        "price": 19600,
+        "price": 20000,
         "category": "dclod",
         "image": "/imagenes/deter-30-dclod.png",
         "description": "Biodegradable y de máxima pureza. Su alta concentración activa rinde extraordinariamente y es gran aliada para exigencias industriales y pesadas.",
@@ -248,7 +248,7 @@
     {
         "id": 23,
         "name": "Desodorante Cherry Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/cherry-dclod.png",
         "description": "Higiene y vitalidad extrema. Limpiador con atrevida fragancia a Cherry de línea Dclod para pisos relucientes y perfumados largas horas.",
@@ -257,7 +257,7 @@
     {
         "id": 24,
         "name": "Lavavajillas Dclod",
-        "price": 6400,
+        "price": 7000,
         "category": "dclod",
         "image": "/imagenes/lavavajillas-dclod.png",
         "description": "Tecnología desengrasante Dclod. Espuma densa y activa de fácil enjuague, que corta la grasa al instante dejando vajilla y cubiertos impecables.",
@@ -266,7 +266,7 @@
     {
         "id": 25,
         "name": "Desodorante Colonia Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/colonia-dclod.png",
         "description": "Exclusivo aroma suave, fresco y con mucha distinción. Un limpiador que deja un rastro sofisticado en cada piso y rincón de tu casa.",
@@ -275,7 +275,7 @@
     {
         "id": 26,
         "name": "Desodorante Arpege Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/arpege-dclod.png",
         "description": "Desinfección poderosa y la más delicada fragancia floral. Un mix ideal para renovar los espacios y mantener alejados agentes nocivos.",
@@ -284,7 +284,7 @@
     {
         "id": 27,
         "name": "Desodorante Colonia Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/colonia-maas.png",
         "description": "Limpiador para el hogar de aroma fresco, duradero y muy familiar. Limpia profundamente y llena tus ambientes de vibras renovadas.",
@@ -293,7 +293,7 @@
     {
         "id": 28,
         "name": "Jabón de Manos Dclod",
-        "price": 7800,
+        "price": 8000,
         "category": "dclod",
         "image": "/imagenes/jabon-manos-dclod.png",
         "description": "Higiene profunda con extractos de uso cosmético. Jabón líquido de calidad premium que higieniza tus manos preservando su humedad natural.",
@@ -311,7 +311,7 @@
     {
         "id": 30,
         "name": "Desodorante Citronella Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/citronella-maas.png",
         "description": "Limpieza protectora y natural. Formulado con extracto de citronella, repele insectos molestos al tiempo que mantiene tus espacios desinfectados.",
@@ -358,7 +358,7 @@
     {
         "id": 33,
         "name": "Desodorante Limpiador Citronella Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/citronella-dclod.png",
         "description": "Escudo repelente. Especialmente ideado para repeler insectos aromáticamente y brindar profunda higiene en tus pisos exteriores e interiores.",
@@ -367,7 +367,7 @@
     {
         "id": 34,
         "name": "Desodorante Limpiador Marina Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/marina-dclod.png",
         "description": "Fragancia oceánica que revive tus sentidos. Desinfección completa y fragancia energizante para salas, pasillos, baños y cocinas completas.",
@@ -376,7 +376,7 @@
     {
         "id": 35,
         "name": "Desodorante Limpiador Lavanda Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/lavanda-dclod.png",
         "description": "Clásica y eterna Lavanda. Desinfecta a fondo y elimina bacterias mientras provee la más absoluta relajación a través de su esencia pura.",
@@ -385,7 +385,7 @@
     {
         "id": 36,
         "name": "Desodorante Limpiador Limon Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/limon-dclod.png",
         "description": "Eficaz limpiador con notas vibrantes de cítricos. Corta la grasitud superficial y promueve un ambiente altamente enérgico y sanitizado.",
@@ -394,7 +394,7 @@
     {
         "id": 37,
         "name": "Desodorante Limpiador Pino Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/pino-dclod.png",
         "description": "Fuerza agreste contra la suciedad. Gran poder de desinfección y limpieza potenciando un aroma a pino fresco sobre todas tus superficies lavables.",
@@ -403,7 +403,7 @@
     {
         "id": 38,
         "name": "Lavandina Concentrada Dclod",
-        "price": 3500,
+        "price": 4000,
         "category": "dclod",
         "image": "/imagenes/lavandina-dclod.jpeg",
         "description": "Poder de desinfección supremo con 55g Cl/l. Blancura increíble para tu ropa blanca o lavado exigente y sanitización de excelencia garantizada.",
@@ -448,7 +448,7 @@
     {
         "id": 43,
         "name": "Desodorante Limpiador Pino Maas",
-        "price": 3000,
+        "price": 3500,
         "category": "granel",
         "image": "/imagenes/pino-maas.png",
         "description": "Poder tradicional del bosque con efectividad germicida. Limpieza que otorga fragancia duradera y vigorosa combatiendo un amplio espectro bacteriano.",
@@ -485,7 +485,7 @@
     {
         "id": 57,
         "name": "Promocion Limpieza",
-        "price": 5000,
+        "price": 7000,
         "category": "granel",
         "image": "/imagenes/promo-lav.png",
         "description": "Renová tu casa con ahorro garantizado. Nuestro pack incluye lavandina concentrada y un limpiador para sanitización máxima de todos tus pisos.",
@@ -501,6 +501,7 @@
         "featured": false
     },
     {
+    
         "id": 58,
         "name": "Rollos de Cocina",
         "price": 1500,
