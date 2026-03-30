@@ -478,7 +478,7 @@
         "name": "Promocion Lavado",
         "price": 17000,
         "category": "lavado",
-        "image": "/imagenes/promo-lavado-dclod.jpeg",
+        "image": "/imagenes/promo-lavado-ia.jpeg",
         "description": "¡Combo imbatible! Llevá el mejor jabón líquido, suavizante premium y perfumina completa tu ciclo de lavado por menos con este pack promocional.",
         "featured": true
     },
@@ -487,7 +487,7 @@
         "name": "Promocion Limpieza",
         "price": 7000,
         "category": "granel",
-        "image": "/imagenes/promo-lav.png",
+        "image": "/imagenes/promo-limpieza-ia.jpeg",
         "description": "Renová tu casa con ahorro garantizado. Nuestro pack incluye lavandina concentrada y un limpiador para sanitización máxima de todos tus pisos.",
         "featured": false
     },
