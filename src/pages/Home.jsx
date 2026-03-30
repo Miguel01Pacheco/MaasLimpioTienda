@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import products from '../data/products.json'
+import { useProducts } from '../context/ProductsContext'
 import ProductGrid from '../components/ProductGrid'
 import { CATEGORIES } from '../components/CategoryMenu'
 
@@ -8,6 +8,8 @@ import { CATEGORIES } from '../components/CategoryMenu'
  * Secciones: Hero, Pills de categorías, Productos Destacados.
  */
 export default function Home() {
+  const { products, loading } = useProducts()
+
   // Solo los productos marcados como destacados
   const featured = products.filter(p => p.featured)
 

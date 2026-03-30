@@ -1,5 +1,5 @@
 import { useParams, Link } from 'react-router-dom'
-import products from '../data/products.json'
+import { useProducts } from '../context/ProductsContext'
 import { CATEGORIES } from '../components/CategoryMenu'
 import ProductGrid from '../components/ProductGrid'
 
@@ -9,6 +9,7 @@ import ProductGrid from '../components/ProductGrid'
  */
 export default function Category() {
     const { slug } = useParams()
+    const { products, loading } = useProducts()
 
     // Buscar la categoría por slug para obtener label e ícono
     const categoryInfo = CATEGORIES.find(c => c.slug === slug)

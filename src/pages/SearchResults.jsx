@@ -1,5 +1,5 @@
 import { useSearchParams, Link } from 'react-router-dom'
-import products from '../data/products.json'
+import { useProducts } from '../context/ProductsContext'
 import ProductGrid from '../components/ProductGrid'
 
 /**
@@ -9,6 +9,7 @@ import ProductGrid from '../components/ProductGrid'
 export default function SearchResults() {
     const [searchParams] = useSearchParams()
     const query = searchParams.get('q') || ''
+    const { products, loading } = useProducts()
 
     // Filtrado case-insensitive por nombre del producto
     const results = products.filter(p =>

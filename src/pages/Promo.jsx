@@ -1,16 +1,18 @@
 import { Link } from 'react-router-dom'
-import products from '../data/products.json'
+import { useProducts } from '../context/ProductsContext'
 import ProductGrid from '../components/ProductGrid'
-
-// Productos destacados para la promo (variedad + piscinas)
-const PROMO_CATEGORIES = ['piscinas', 'variedad', 'linea-dclod']
-const promoProducts = products.filter(p => PROMO_CATEGORIES.includes(p.category))
 
 /**
  * Promo — Página especial de promoción (/promo).
  * Temática: ayudar a viajar a los chicos del Club Mar Chiquita.
  */
 export default function Promo() {
+    const { products, loading } = useProducts()
+    
+    // Productos destacados para la promo (variedad + piscinas)
+    const PROMO_CATEGORIES = ['piscinas', 'variedad', 'linea-dclod']
+    const promoProducts = products.filter(p => PROMO_CATEGORIES.includes(p.category))
+    
     return (
         <>
             {/* ── Banner principal ── */}
