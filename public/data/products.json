@@ -489,7 +489,7 @@
         "category": "granel",
         "image": "/imagenes/promo-limpieza-ia.jpeg",
         "description": "Renová tu casa con ahorro garantizado. Nuestro pack incluye lavandina concentrada y un limpiador para sanitización máxima de todos tus pisos.",
-        "featured": false
+        "featured": true
     },
     {
         "id": 5,

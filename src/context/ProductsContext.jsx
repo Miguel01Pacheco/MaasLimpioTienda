@@ -11,7 +11,7 @@ export const ProductsContext = createContext({
 // Cambiar esto forzará a los usuarios a recargar
 // y limpiar el caché y datos viejos (ej. carrito)
 // ============================================
-const APP_VERSION = "1.0.1";
+const APP_VERSION = "1.0.2";
 
 export function ProductsProvider({ children }) {
     const [products, setProducts] = useState([]);
