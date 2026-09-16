@@ -20,7 +20,7 @@
     {
         "id": 3,
         "name": "Jabón Verde Maas",
-        "price": 8000,
+        "price": y 9000,
         "category": "granel",
         "image": "/imagenes/pino-maas.png",
         "description": "Exclusivo jabón líquido premium de baja espuma. Cuida las prendas eliminando manchas difíciles y dejando un exquisito aroma a limpio en cada lavado.",
@@ -29,7 +29,7 @@
     {
         "id": 45,
         "name": "Jabón Verde Maas",
-        "price": 8000,
+        "price": 9000,
         "category": "lavado",
         "image": "/imagenes/pino-maas.png",
         "description": "Exclusivo jabón líquido premium de baja espuma. Cuida las prendas eliminando manchas difíciles y dejando un exquisito aroma a limpio en cada lavado.",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "name": "Jabón Azul Maas",
-        "price": 4500,
+        "price": 5500,
         "category": "granel",
         "image": "/imagenes/jabon-azul-maas.png",
         "description": "Poder removedor diseñado especialmente para ropa de trabajo y uniformes. Lavado a mano o máquina, asegurando blancura y color impecables.",
@@ -48,7 +48,7 @@
     {
         "id": 46,
         "name": "Jabón Azul Maas",
-        "price": 4500,
+        "price": 5500,
         "category": "lavado",
         "image": "/imagenes/jabon-azul-maas.png",
         "description": "Poder removedor diseñado especialmente para ropa de trabajo y uniformes. Lavado a mano o máquina, asegurando blancura y color impecables.",
@@ -239,7 +239,7 @@
     {
         "id": 22,
         "name": "Jabón Azul Dclod",
-        "price": 5000,
+        "price": 6000,
         "category": "dclod",
         "image": "/imagenes/jabon-azul-dclod.png",
         "description": "Remoción profunda de manchas con cuidado superior de los tejidos, brindando frescura asombrosa en cada carga del lavarropas.",
